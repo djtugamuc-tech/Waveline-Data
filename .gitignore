@@ -1,0 +1,3 @@
+data/.stations-*
+__pycache__/
+*.pyc
