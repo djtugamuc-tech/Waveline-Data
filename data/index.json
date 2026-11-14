@@ -1,35 +1,35 @@
 {
   "countries": {
     "CH": {
-      "count": 486,
+      "count": 487,
       "file": "stations_CH.json",
-      "sha256": "532331245f25babb929966b63655b8f6b7b3e374ebe30ad20e070b384bcaf65c"
+      "sha256": "2e0f6543f69a9e3aa505e072e98adb03ac2682164c07d8281280ca8f1169278c"
     },
     "DE": {
-      "count": 497,
+      "count": 499,
       "file": "stations_DE.json",
-      "sha256": "4bf2a706bbb464e2a1adab220d49e1d9bc39c18ea2b8c7ada2ed8db6847278aa"
+      "sha256": "57a2196b21e4816b9cfb543cc29c8d0368db7b4525fea8891e72ee63e49694a3"
     },
     "ES": {
-      "count": 500,
+      "count": 499,
       "file": "stations_ES.json",
-      "sha256": "9050369e3ac70bee2de6217eb8850b1b2d8955493e4e3085175e3b15ca5fada2"
+      "sha256": "8994f160118038e25f9c5b9d1cee0f4cf8df7fa18872986a8fd276b231ff3eae"
     },
     "FR": {
-      "count": 499,
+      "count": 497,
       "file": "stations_FR.json",
-      "sha256": "9df939c9e94541156e312839738c3a23238348043c12472a16b2c588e9639e95"
+      "sha256": "3b83672d98a8f7c87cb18a8b9af78d3ee9c69e5c0d00fec4a31729545803ed47"
     },
     "NL": {
-      "count": 497,
+      "count": 496,
       "file": "stations_NL.json",
-      "sha256": "fd617f63a28cba0dba269b0b92eb54bbb2dd01102df9df12df5c49349f2240e2"
+      "sha256": "d15b29cc0622f4397bcc46eeaad2f7e863ddeac4b3cbe2a3cf474dfda5c89ee5"
     },
     "PT": {
       "count": 330,
       "file": "stations_PT.json",
-      "sha256": "a1e6df706b4abd4f5e9ebf8757e2d46d6ef4d1391b778a9690f8032074f676bc"
+      "sha256": "65956a475c5d986bcf2b47a0a115dafd3ad9e7e211cfed1eccf9bb69a6ed3473"
     }
   },
-  "updatedAt": "2026-11-13T12:25:37+00:00"
+  "updatedAt": "2026-11-14T11:38:26+00:00"
 }
